@@ -1,6 +1,5 @@
 import requests
 import time
-import random
 
 repeats = int(input("[?] How many times do you want to send the message?"))
 cooldown = int(input("[?] How many interval do you want between each message?"))
